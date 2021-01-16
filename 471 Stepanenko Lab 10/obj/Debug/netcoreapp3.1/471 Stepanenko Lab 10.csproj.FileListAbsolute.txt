@@ -1,0 +1,18 @@
+C:\Users\USER\source\repos\471 Stepanenko Lab 10\471 Stepanenko Lab 10\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 10.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\471 Stepanenko Lab 10\471 Stepanenko Lab 10\obj\Debug\netcoreapp3.1\_471_Stepanenko_Lab_10.Form1.resources
+C:\Users\USER\source\repos\471 Stepanenko Lab 10\471 Stepanenko Lab 10\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 10.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\471 Stepanenko Lab 10\471 Stepanenko Lab 10\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 10.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\471 Stepanenko Lab 10\471 Stepanenko Lab 10\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 10.AssemblyInfo.cs
+C:\Users\USER\source\repos\471 Stepanenko Lab 10\471 Stepanenko Lab 10\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 10.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\471 Stepanenko Lab 10\471 Stepanenko Lab 10\bin\Debug\netcoreapp3.1\471 Stepanenko Lab 10.exe
+C:\Users\USER\source\repos\471 Stepanenko Lab 10\471 Stepanenko Lab 10\bin\Debug\netcoreapp3.1\471 Stepanenko Lab 10.deps.json
+C:\Users\USER\source\repos\471 Stepanenko Lab 10\471 Stepanenko Lab 10\bin\Debug\netcoreapp3.1\471 Stepanenko Lab 10.runtimeconfig.json
+C:\Users\USER\source\repos\471 Stepanenko Lab 10\471 Stepanenko Lab 10\bin\Debug\netcoreapp3.1\471 Stepanenko Lab 10.runtimeconfig.dev.json
+C:\Users\USER\source\repos\471 Stepanenko Lab 10\471 Stepanenko Lab 10\bin\Debug\netcoreapp3.1\471 Stepanenko Lab 10.dll
+C:\Users\USER\source\repos\471 Stepanenko Lab 10\471 Stepanenko Lab 10\bin\Debug\netcoreapp3.1\471 Stepanenko Lab 10.pdb
+C:\Users\USER\source\repos\471 Stepanenko Lab 10\471 Stepanenko Lab 10\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\USER\source\repos\471 Stepanenko Lab 10\471 Stepanenko Lab 10\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\USER\source\repos\471 Stepanenko Lab 10\471 Stepanenko Lab 10\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 10.csproj.CopyComplete
+C:\Users\USER\source\repos\471 Stepanenko Lab 10\471 Stepanenko Lab 10\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 10.dll
+C:\Users\USER\source\repos\471 Stepanenko Lab 10\471 Stepanenko Lab 10\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 10.pdb
+C:\Users\USER\source\repos\471 Stepanenko Lab 10\471 Stepanenko Lab 10\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 10.genruntimeconfig.cache
